@@ -1,4 +1,4 @@
-# Pentonminoes
+# Pentominoes
 
 - **Game Setup:** The app starts with a game board displaying a 14x14 grid and a centered puzzle. Players can interact with 8 puzzle selection buttons and two control buttons (Reset & Solve), alongside the 12 Pentomino pieces.
 
